@@ -3,4 +3,4 @@ Tutorial respository
 
 This is for practice in Github.
 
-![Image of sheep Network](Images/Untitled.png)
+![Image of sheep Network](hello_world/Images/Untitled.png)
